@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Prevents scrollbars from appearing when resizing */
+}
+
+canvas {
+  display: block; /* Removes extra space below canvas */
+  margin: auto; /* Centers the canvas */
+}
+
